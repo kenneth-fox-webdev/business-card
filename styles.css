@@ -45,7 +45,7 @@ body {
 }
 
 .card-info {
-    text-shadow: 1px 1px #0096c7;
+    text-shadow: 1px 1px 1px #0096c7;
     transition: all .2s ease-in-out;
 }
 
